@@ -1,0 +1,14 @@
+This project is a machine-learning-based health assessment tool that predicts possible diseases from user-selected symptoms. Using a Random Forest Classifier, the system evaluates symptom patterns and provides the most likely diagnosis, allowing users to get an early indication before consulting a doctor. The model is trained on a comprehensive medical dataset and can process 50+ symptoms and predict 80+ diseases. achieving an accuracy of ~75%. During development, we used several machine learning and data-processing tools, including Python, NumPy, Pandas, and Scikit-learn.
+
+
+and then mention the team members 
+
+Aritra Bhandari (BWU/BTA/22/246)
+Priyajit Dutta  (BWU/BTA/22/275)
+Soumyojit Sen   (BWU/BTA/22/286)
+Gagan Biswas    (BWU/BTA/22/294)
+
+and then our mentor 
+
+Mrs Pranashi Chakraborty Professor CSE-AI
+ 
